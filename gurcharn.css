@@ -1,0 +1,13 @@
+ body{
+            background-repeat:no-repeat;
+            background-size: cover;
+            background-position: center;
+            color: red;
+ }
+ .Items{
+    color:hsl(190, 46%, 90%);
+    font-family: Footlight MT Light;
+    font-size: 50px;
+}
+ }
+    
